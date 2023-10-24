@@ -1,6 +1,6 @@
 # 🛠️ My Skills
 
-## 👉 Programming languages
+### 👉 Programming languages
 
 <p align="left"> 
   &emsp;
@@ -14,7 +14,7 @@
 &emsp; 
 </p>
 
-## 👉 Frontend Development
+### 👉 Frontend Development
 <p align="left"> 
    &emsp;
   <a href="https://angular.io/" target="_blank"> 
@@ -23,7 +23,7 @@
 &emsp; 
 </p>
 
-## 👉 Databases & Cloud Hosting
+### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
