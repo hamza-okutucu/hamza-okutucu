@@ -1,6 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=hamza-okutucu&label=hamza-okutucu's%20Profile%20Views%20&color=dc143c&style=plastic" alt="hamza-okutucu" />
-
-<br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=hamza-okutucu&label=hamza-okutucu's%20Profile%20Views%20&color=dc143c&style=plastic" alt="hamza-okutucu" />
+</p>
 
 <h1 align="center">Hi, I'm Hamza Okutucu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -11,7 +11,7 @@
 
 <h3 align="center">👉 Programming languages</h3>
 
-<p align="left"> 
+<p align="center"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
@@ -25,7 +25,7 @@
 
 <h3 align="center">👉 Frontend Development</h3>
 
-<p align="left"> 
+<p align="center"> 
    &emsp;
   <a href="https://angular.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/-angular-DE0031?logo=angular"/>
@@ -35,7 +35,7 @@
 
 <h3 align="center">👉 Backend Development</h3>
 
-<p align="left"> 
+<p align="center"> 
    &emsp;
   <a href="https://spring.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -45,7 +45,7 @@
 
 <h3 align="center">👉 Databases</h3>
 
-<p align="left">
+<p align="center">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
