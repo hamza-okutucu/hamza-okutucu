@@ -10,7 +10,9 @@
 
 <h2></h2>
 
-<h1 align="center">Hi, I'm Hamza Okutucu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamza-okutucu&label=hamza-okutucu's%20Profile%20Views%20&color=dc143c&style=plastic" alt="hamza-okutucu" />
+</p>
 
 <h2 align="center">🛠️ My Skills</h2>
 
