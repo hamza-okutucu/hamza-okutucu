@@ -106,7 +106,7 @@ This project is a website portfolio made to present my computer science projects
 
 <p><strong>Skills :</strong> Angular - JavaScript - HTML - CSS</p>
 
-https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/b615d182-b5f4-4d28-998f-5b7d76da6d32
+https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/ac0164d4-24a0-458c-834d-98aeae2265c2
 
 <br>
 
