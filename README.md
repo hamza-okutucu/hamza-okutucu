@@ -7,9 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamza-okutucu&label=hamza-okutucu's%20Profile%20Views%20&color=dc143c&style=plastic" alt="hamza-okutucu" /> </p>
 
-<p align="center">
-  <h2>🛠️ My Skills</h2>
-</p>
+<h2 align="center">🛠️ My Skills</h2>
 
 ### 👉 Programming languages
 
