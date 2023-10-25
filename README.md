@@ -80,7 +80,7 @@
 
 ## 📂 Projects
 
-### [🤖 LineFollower](https://github.com/hamza-okutucu/LineFollower)
+## [🤖 LineFollower](https://github.com/hamza-okutucu/LineFollower)
 
 This project is a line-following robot implemented using LEGO Mindstorms EV3. The robot is designed to follow a colored line on the ground by using color sensors and a PID controller.
 
@@ -90,7 +90,7 @@ https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/11efac16-5050-4d
 
 <br>
 
-### [🧩 Plumber](https://github.com/hamza-okutucu/Plumber)
+## [🧩 Plumber](https://github.com/hamza-okutucu/Plumber)
 
 Puzzle game inspired by Plumber where you connect colored water sources on a grid using various pipes to match colors and prevent empty spaces.
 
@@ -100,7 +100,7 @@ Puzzle game inspired by Plumber where you connect colored water sources on a gri
 
 <br>
 
-### [🌐 Portfolio](https://github.com/hamza-okutucu/Portfolio)
+## [🌐 Portfolio](https://github.com/hamza-okutucu/Portfolio)
 
 This project is a website portfolio made to present my computer science projects..
 
