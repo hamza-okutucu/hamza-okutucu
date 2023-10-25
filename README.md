@@ -19,11 +19,11 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" width="90" height="30">
   </a>
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" width="90" height="30">
    </a>
 &emsp; 
 </p>
@@ -33,7 +33,7 @@
 <p align="center"> 
    &emsp;
   <a href="https://angular.io/" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/-angular-DE0031?logo=angular"/>
+    <img alt="Angular" src="https://img.shields.io/badge/-angular-DE0031?logo=angular" width="90" height="30">
   </a>
 &emsp; 
 </p>
@@ -43,7 +43,7 @@
 <p align="center"> 
    &emsp;
   <a href="https://spring.io/" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="90" height="30">
   </a>
 &emsp; 
 </p>
@@ -52,9 +52,13 @@
 
 <p align="center">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"  width="90" height="30">
+    </a>
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="80" height="20"></a>
+    <a href="https://www.mysql.com/">
+      <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="90" height="30">
+    </a>
   &emsp;
 </p>
 
