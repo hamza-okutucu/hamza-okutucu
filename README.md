@@ -78,7 +78,7 @@
 
 <br>
 
-## 📂 Projects
+# 📂 Projects
 
 ## [🤖 LineFollower](https://github.com/hamza-okutucu/LineFollower)
 
