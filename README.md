@@ -8,7 +8,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer&center=true&width=500&height=50"></a>
 </p>
 
-<h2></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza-okutucu&label=hamza-okutucu's%20Profile%20Views%20&color=dc143c&style=plastic" alt="hamza-okutucu" />
