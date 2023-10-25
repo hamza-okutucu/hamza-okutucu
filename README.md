@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠️ My Skills
+# 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -64,7 +64,7 @@
 
 <br>
 
-## 📭 Contact
+# 📭 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/hamza-okutucu-5a1596294">
