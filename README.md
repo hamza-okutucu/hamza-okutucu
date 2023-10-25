@@ -58,6 +58,8 @@
   &emsp;
 </p>
 
+<br>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -69,6 +71,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-okutucu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
+
+<br>
 
 <h2 align="center">🌐 Socials</h2>
 
