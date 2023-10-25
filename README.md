@@ -12,11 +12,11 @@
 
 <br>
 
-<h2 align="center">🛠️ My Skills</h2>
+## 🛠️ My Skills
 
-<h3 align="center">👉 Programming languages</h3>
+### 👉 Programming languages
 
-<p align="center"> 
+<p align="left"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
@@ -28,9 +28,9 @@
 &emsp; 
 </p>
 
-<h3 align="center">👉 Frontend Development</h3>
+### 👉 Frontend Development
 
-<p align="center"> 
+<p align="left"> 
    &emsp;
   <a href="https://angular.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/-angular-DE0031?logo=angular"/>
@@ -38,9 +38,9 @@
 &emsp; 
 </p>
 
-<h3 align="center">👉 Backend Development</h3>
+### 👉 Backend Development
 
-<p align="center"> 
+<p align="left"> 
    &emsp;
   <a href="https://spring.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="85" height="20"/>
@@ -48,9 +48,9 @@
 &emsp; 
 </p>
 
-<h3 align="center">👉 Databases</h3>
+### 👉 Databases
 
-<p align="center">
+<p align="left">
   &emsp;
     <a href="https://www.mysql.com/">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
@@ -64,7 +64,7 @@
 
 <br>
 
-<h2 align="center">📭 Contact</h2>
+## 📭 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/hamza-okutucu-5a1596294">
@@ -78,19 +78,17 @@
 
 <br>
 
-<h2 align="center">📂 Projects</h2>
+## 📂 Projects
 
-<a href="">
-  <h3 align="center" style="color: lightblue;">🤖 LineFollower</h3>
-</a>
+### [🤖 LineFollower](https://github.com/hamza-okutucu/LineFollower)
 
 This project is a line-following robot implemented using LEGO Mindstorms EV3. The robot is designed to follow a colored line on the ground by using color sensors and a PID controller.
 
-<p>strong>Skills :<strong> Java - MVC architecture</p>
+<p><strong>Skills :<strong> Java - MVC architecture</p>
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-okutucu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
