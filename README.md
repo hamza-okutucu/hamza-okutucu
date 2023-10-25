@@ -84,7 +84,7 @@
 
 This project is a line-following robot implemented using LEGO Mindstorms EV3. The robot is designed to follow a colored line on the ground by using color sensors and a PID controller.
 
-<p><strong>Skills :</strong> Java - Algorithmic</p>
+<p><strong>Skills : Java - Algorithmic</strong></p>
 
 https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/11efac16-5050-4d30-a96f-4e2ab29923d9
 
@@ -94,7 +94,7 @@ https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/11efac16-5050-4d
 
 Puzzle game inspired by Plumber where you connect colored water sources on a grid using various pipes to match colors and prevent empty spaces.
 
-<p><strong>Skills :</strong> Java - MVC Architecture</p>
+<p><strong>Skills : Java - MVC Architecture</strong></p>
 
 ![screen1](https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/f27b0a05-2f78-42ae-8996-956e031b3bfb)
 
@@ -104,7 +104,7 @@ Puzzle game inspired by Plumber where you connect colored water sources on a gri
 
 This project is a website portfolio made to present my computer science projects..
 
-<p><strong>Skills :</strong> Angular - JavaScript - HTML - CSS</p>
+<p><strong>Skills : Angular - JavaScript - HTML - CSS</strong></p>
 
 https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/ac0164d4-24a0-458c-834d-98aeae2265c2
 
