@@ -64,6 +64,32 @@
 
 <br>
 
+<h2 align="center">📭 Contact</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hamza-okutucu-5a1596294">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+	<span>&nbsp;</span>
+	<a href="mailto:hamza.okutucu@outlook.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+</p>
+
+<br>
+
+<h2 align="center">📂 Projects</h2>
+
+<a href="">
+  <h3 align="center" style="color: lightblue;">🤖 LineFollower</h3>
+</a>
+
+This project is a line-following robot implemented using LEGO Mindstorms EV3. The robot is designed to follow a colored line on the ground by using color sensors and a PID controller.
+
+<p>strong>Skills :<strong> Java - MVC architecture</p>
+
+<br>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -75,14 +101,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-okutucu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
-
-<br>
-
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/hamza-okutucu-5a1596294">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
