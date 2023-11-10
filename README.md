@@ -96,7 +96,9 @@ Puzzle game inspired by Plumber where you connect colored water sources on a gri
 
 <p><strong>Skills : Java - MVC Architecture</strong></p>
 
-![screen1](https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/f27b0a05-2f78-42ae-8996-956e031b3bfb)
+<p align="center">
+  <img src="https://github.com/hamza-okutucu/Plumber/assets/148505345/73c940ac-63a9-4383-bfc7-778ef7549d32" alt="Plumber">
+</p>
 
 <br>
 
@@ -106,11 +108,7 @@ This project is a website portfolio made to present my computer science projects
 
 <p><strong>Skills : Angular - JavaScript - HTML - CSS</strong></p>
 
-<p align="center">
-  <img src="https://github.com/hamza-okutucu/Plumber/assets/148505345/73c940ac-63a9-4383-bfc7-778ef7549d32" alt="Plumber">
-</p>
-
-<!-- https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/ac0164d4-24a0-458c-834d-98aeae2265c2 -->
+https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/ac0164d4-24a0-458c-834d-98aeae2265c2
 
 <br>
 
