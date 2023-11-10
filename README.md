@@ -96,9 +96,7 @@ Puzzle game inspired by Plumber where you connect colored water sources on a gri
 
 <p><strong>Skills : Java - MVC Architecture</strong></p>
 
-<p align="center">
-  <img src="https://github.com/hamza-okutucu/Plumber/assets/148505345/73c940ac-63a9-4383-bfc7-778ef7549d32" alt="Plumber">
-</p>
+<img src="https://github.com/hamza-okutucu/Plumber/assets/148505345/73c940ac-63a9-4383-bfc7-778ef7549d32" alt="Plumber">
 
 <br>
 
