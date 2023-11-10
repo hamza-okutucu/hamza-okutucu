@@ -102,7 +102,7 @@ Puzzle game inspired by Plumber where you connect colored water sources on a gri
 
 ## [🌐 Portfolio](https://github.com/hamza-okutucu/Portfolio)
 
-This project is a website portfolio made to present my computer science projects.
+This project is a website portfolio made to present my computer science projects.<br>
 Available at the following link : https://hamza-okutucu.github.io/Portfolio/
 
 <p><strong>Skills : Angular - JavaScript - HTML - CSS</strong></p>
