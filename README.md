@@ -80,13 +80,17 @@
 
 # 📂 Projects
 
-## [🎵 MeloWave](https://github.com/hamza-okutucu/MeloWave-back)
-
-#![melowave](https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/14af23c6-959b-4866-b978-5aecbf469344)
+## [🎵 MeloWave](http://51.91.100.173:4200)
 
 This project is a web application for music streaming.
 
+MeloWave : http://51.91.100.173:4200
+code back : https://github.com/hamza-okutucu/MeloWave-back
+code front : https://github.com/hamza-okutucu/MeloWave-front
+
 <p><strong>Skills : Java - Spring Boot - JavaScript - Angular</strong></p>
+
+https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/14af23c6-959b-4866-b978-5aecbf469344
 
 <br>
 
