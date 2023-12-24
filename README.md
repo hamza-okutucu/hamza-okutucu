@@ -78,7 +78,17 @@
 
 <br>
 
-# 📂 Projects
+ 📂 Projects
+
+## [🎵 MeloWave](https://github.com/hamza-okutucu/MeloWave-back)
+
+#![melowave](https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/14af23c6-959b-4866-b978-5aecbf469344)
+
+This project is a web application for music streaming.
+
+<p><strong>Skills : Java - Spring Boot - JavaScript - Angular</strong></p>
+
+<br>
 
 ## [🤖 LineFollower](https://github.com/hamza-okutucu/LineFollower)
 
