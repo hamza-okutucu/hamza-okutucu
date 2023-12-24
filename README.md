@@ -78,7 +78,7 @@
 
 <br>
 
- 📂 Projects
+# 📂 Projects
 
 ## [🎵 MeloWave](https://github.com/hamza-okutucu/MeloWave-back)
 
