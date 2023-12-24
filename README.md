@@ -84,13 +84,13 @@
 
 This project is a web application for music streaming.
 
-MeloWave : http://51.91.100.173:4200
-code back : https://github.com/hamza-okutucu/MeloWave-back
+MeloWave : http://51.91.100.173:4200 <br>
+code back : https://github.com/hamza-okutucu/MeloWave-back <br>
 code front : https://github.com/hamza-okutucu/MeloWave-front
 
 <p><strong>Skills : Java - Spring Boot - JavaScript - Angular</strong></p>
 
-https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/14af23c6-959b-4866-b978-5aecbf469344
+![melowave](https://github.com/hamza-okutucu/hamza-okutucu/assets/148505345/a6afdeb5-2798-4af0-a4a1-6bfe84c0c4ff)
 
 <br>
 
