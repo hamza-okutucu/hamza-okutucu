@@ -80,7 +80,7 @@
 
 # 📂 Projects
 
-## [🎵 MeloWave]
+## 🎵 MeloWave
 
 This project is a web application for music streaming.
 
