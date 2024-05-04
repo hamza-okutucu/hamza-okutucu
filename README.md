@@ -80,11 +80,10 @@
 
 # 📂 Projects
 
-## [🎵 MeloWave](http://51.91.100.173:4200)
+## [🎵 MeloWave]()
 
 This project is a web application for music streaming.
 
-MeloWave : http://51.91.100.173:4200 <br>
 code back : https://github.com/hamza-okutucu/MeloWave-back <br>
 code front : https://github.com/hamza-okutucu/MeloWave-front
 
